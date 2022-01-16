@@ -1,0 +1,25 @@
+{
+  "name": "jest_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksuchoi216/jest_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksuchoi216/jest_practice/issues"
+  },
+  "homepage": "https://github.com/ksuchoi216/jest_practice#readme",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
